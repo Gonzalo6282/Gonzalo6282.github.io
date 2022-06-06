@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Live demo](https://gonzalo6282.github.io/)
+- [Live demo](http://qr-frontend-mentor.s3-website.eu-west-2.amazonaws.com)
 
 ## My process
 
@@ -35,13 +35,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 - [Bootstrap](https://getbootstrap.com/) - CSS framework
-- [GitHub Pages](https://pages.github.com/) - Version control
+- [AWS](https://aws.amazon.com/) - Cloud services
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -74,8 +70,6 @@ To see how you can add code snippets, see below:
 
 I want to continue focusing on React in my future projects. These are some of the concepts I am still not completely comfortable with, I really want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Stackoverflow](https://stackoverflow.com/questions/39031224/how-to-center-cards-in-bootstrap-4) - This helped me to center the card horizontally in the middle across the page.
@@ -91,4 +85,4 @@ I want to continue focusing on React in my future projects. These are some of th
 - Udemy - [Colt Steele](https://www.udemy.com/user/coltsteele/)
 
 I did get inspiration from Colt Steele, he is a coding instructor in Udemy. I'd recommend it to anyone that is learning programing to check some of his courses.
-# QR_card
+
